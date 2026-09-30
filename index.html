@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <title>Catherine’s Recipe Book</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1 id="appTitle">Catherine’s Recipe Book</h1>
+      <p id="subtitle">Final recipes only</p>
+    </div>
+    <button id="langBtn" class="lang-btn" aria-label="Change language">English ▾</button>
+  </header>
+
+  <main>
+    <section class="controls">
+      <input id="search" type="search" placeholder="Search recipes or ingredients…" autocomplete="off" />
+      <div id="filters" class="filters"></div>
+    </section>
+
+    <p id="count" class="count"></p>
+    <section id="grid" class="grid"></section>
+  </main>
+
+  <script src="recipes.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
