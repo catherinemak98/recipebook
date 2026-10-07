@@ -669,5 +669,79 @@ window.RECIPES = [
       "en": "Adapted from Marion's Kitchen with Catherine's additions: a small amount of dried shrimp cooked with the pork for extra savoury depth, plus crushed roasted peanuts to finish. Keep dried shrimp modest so the salad does not become too salty.",
       "id": "Diadaptasi dari Marion's Kitchen dengan tambahan Catherine: sedikit udang kering dimasak bersama babi untuk menambah rasa gurih, lalu kacang tanah panggang tumbuk sebagai topping. Jangan terlalu banyak udang kering supaya tidak terlalu asin."
     }
+  },
+  {
+    "id": "creamy-potato-egg-salad",
+    "category": "salads",
+    "title": {
+      "en": "Creamy Potato & Jammy Egg Salad",
+      "id": "Salad Kentang & Telur Setengah Matang"
+    },
+    "tags": {
+      "en": [
+        "Potato",
+        "Egg",
+        "Bacon",
+        "Cucumber",
+        "Creamy"
+      ],
+      "id": [
+        "Kentang",
+        "Telur",
+        "Bacon",
+        "Timun",
+        "Creamy"
+      ]
+    },
+    "ingredients": {
+      "en": [
+        "3 medium potatoes, boiled until tender",
+        "3 eggs, soft-boiled for about 6 minutes",
+        "Persian cucumber, sliced or chopped, to taste",
+        "A small amount of crispy bacon or bacon chips",
+        "3 tbsp Greek yogurt",
+        "2 tbsp mayonnaise",
+        "1½ tbsp grainy mustard",
+        "1–2 tbsp milk, as needed to loosen the dressing",
+        "Plenty of freshly cracked black pepper",
+        "Small pinch of salt, only after tasting"
+      ],
+      "id": [
+        "3 kentang ukuran sedang, rebus sampai empuk",
+        "3 telur, rebus sekitar 6 menit agar kuningnya masih lembut",
+        "Timun Persia, iris atau potong secukupnya",
+        "Sedikit bacon renyah atau bacon chips",
+        "3 sdm Greek yogurt",
+        "2 sdm mayones",
+        "1½ sdm grainy mustard / mustard berbiji",
+        "1–2 sdm susu, sesuai kebutuhan untuk mengencerkan dressing",
+        "Lada hitam yang baru digiling, agak banyak",
+        "Sedikit garam, tambahkan hanya setelah dicicipi"
+      ]
+    },
+    "method": {
+      "en": [
+        "Boil the potatoes until tender, then drain and let them cool slightly before cutting into bite-size chunks.",
+        "Soft-boil the eggs for about 6 minutes, then cool in cold water and peel.",
+        "In a large bowl, mix Greek yogurt, mayonnaise, grainy mustard and black pepper. Add 1 tbsp milk first, then a little more only if needed for a creamy dressing consistency.",
+        "Add the potatoes, cucumber and crispy bacon. Gently toss to coat.",
+        "Roughly break or chop 2 of the soft-boiled eggs and gently fold them through the salad.",
+        "Taste before seasoning with salt because the mustard and bacon already add saltiness.",
+        "Halve the remaining jammy egg and place it on top. Finish with extra cracked black pepper and a little bacon if desired."
+      ],
+      "id": [
+        "Rebus kentang sampai empuk, tiriskan lalu biarkan agak dingin sebelum dipotong ukuran sekali makan.",
+        "Rebus telur sekitar 6 menit agar kuningnya masih lembut, lalu dinginkan dalam air dingin dan kupas.",
+        "Dalam mangkuk besar, campur Greek yogurt, mayones, grainy mustard dan lada hitam. Tambahkan 1 sdm susu terlebih dahulu; tambah sedikit lagi hanya bila perlu sampai dressing creamy.",
+        "Masukkan kentang, timun dan bacon renyah. Aduk perlahan sampai terlapisi dressing.",
+        "Potong kasar 2 telur lalu aduk perlahan ke dalam salad.",
+        "Cicipi sebelum menambah garam karena mustard dan bacon sudah memberi rasa asin.",
+        "Belah telur terakhir dan letakkan di atas salad. Tambahkan lada hitam dan sedikit bacon lagi bila suka."
+      ]
+    },
+    "notes": {
+      "en": "Catherine's scaled version, about 2–3 servings. Keep it potato-forward: 3 potatoes and 3 eggs, with one jammy egg reserved for the top.",
+      "id": "Versi Catherine untuk sekitar 2–3 porsi. Tetap dominan kentang: 3 kentang dan 3 telur, dengan 1 telur lembut disimpan untuk topping."
+    }
   }
 ];
