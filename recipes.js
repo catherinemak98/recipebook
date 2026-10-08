@@ -743,5 +743,77 @@ window.RECIPES = [
       "en": "Catherine's scaled version, about 2–3 servings. Keep it potato-forward: 3 potatoes and 3 eggs, with one jammy egg reserved for the top.",
       "id": "Versi Catherine untuk sekitar 2–3 porsi. Tetap dominan kentang: 3 kentang dan 3 telur, dengan 1 telur lembut disimpan untuk topping."
     }
+  },
+  {
+    "id": "wagyu-mushroom-soboro-don",
+    "category": "mains",
+    "title": {
+      "en": "Japanese Wagyu Beef & Mushroom Soboro Don",
+      "id": "Nasi Soboro Daging Wagyu dan Jamur Jepang"
+    },
+    "tags": {
+      "en": [
+        "Japanese",
+        "Wagyu",
+        "Beef mince",
+        "Mushrooms",
+        "Rice bowl"
+      ],
+      "id": [
+        "Jepang",
+        "Wagyu",
+        "Daging sapi cincang",
+        "Jamur",
+        "Nasi"
+      ]
+    },
+    "ingredients": {
+      "en": [
+        "160 g Wagyu beef mince",
+        "50 g shiitake or brown mushrooms, finely chopped",
+        "2 tsp Japanese soy sauce",
+        "2 tsp mirin",
+        "¼ tsp sugar",
+        "½ tsp grated ginger",
+        "1 tsp sake (optional)",
+        "2 tbsp water",
+        "150–180 g cooked Japanese rice",
+        "Spring onion, chopped, to garnish",
+        "A little toasted sesame seeds"
+      ],
+      "id": [
+        "160 g daging sapi Wagyu cincang",
+        "50 g jamur shiitake atau jamur cokelat, cincang halus",
+        "2 sdt kecap asin Jepang",
+        "2 sdt mirin",
+        "¼ sdt gula",
+        "½ sdt jahe parut",
+        "1 sdt sake (opsional)",
+        "2 sdm air",
+        "150–180 g nasi Jepang matang",
+        "Daun bawang cincang untuk taburan",
+        "Sedikit biji wijen sangrai"
+      ]
+    },
+    "method": {
+      "en": [
+        "Mix soy sauce, mirin, sugar, ginger, sake (if using) and water in a bowl.",
+        "Heat a non-stick pan over medium-high heat. Add beef mince without oil initially; break it into small pieces and brown for about 2 minutes.",
+        "Add finely chopped mushrooms and cook for 2–3 minutes until softened.",
+        "Pour in sauce and reduce heat to medium. Simmer for 2–3 minutes, stirring until beef is fully cooked and sauce lightly coats it. Leave a little liquid for the rice.",
+        "Serve over warm Japanese rice and finish with spring onion and toasted sesame seeds."
+      ],
+      "id": [
+        "Campurkan kecap asin Jepang, mirin, gula, jahe, sake (jika pakai), dan air dalam mangkuk.",
+        "Panaskan wajan anti lengket dengan api sedang-besar. Masukkan daging cincang tanpa minyak terlebih dahulu; uraikan dan tumis sekitar 2 menit sampai agak kecokelatan.",
+        "Masukkan jamur cincang dan masak 2–3 menit sampai lunak.",
+        "Tuang saus lalu kecilkan ke api sedang. Masak 2–3 menit sambil diaduk sampai daging matang sepenuhnya dan saus melapisi daging. Sisakan sedikit kuah untuk nasi.",
+        "Sajikan di atas nasi Jepang hangat, taburi daun bawang dan wijen sangrai."
+      ]
+    },
+    "notes": {
+      "en": "1 serving. Mild, less salty and lightly sweet. No egg. Do not add extra salt; keep a little sauce so lean mince stays moist.",
+      "id": "1 porsi. Rasa ringan, tidak terlalu asin dan hanya sedikit manis. Tanpa telur. Jangan tambah garam; sisakan sedikit saus agar daging tidak kering."
+    }
   }
 ];
